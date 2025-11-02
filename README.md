@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/praajna/" title="Praajna Baragur on LinkedIn" aria-label="Praajna Baragur on LinkedIn" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://github.com/praajnabaragur/praajnabaragur/blob/main/praajna_resume.pdf" title="Open Praajna Baragur's resume (PDF)" aria-label="Praajna Baragur resume (PDF)" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/praajnabaragur/praajnabaragur/blob/main/docs/praajna_resume.pdf" title="Open Praajna Baragur's resume (PDF)" aria-label="Praajna Baragur resume (PDF)" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Resume-FF7A00?style=for-the-badge&logo=files&logoColor=white" alt="Resume Badge" />
     </a>
     <a href="mailto:pgbaragu@uwaterloo.ca" title="Email Praajna" aria-label="Email Praajna" target="_blank" rel="noopener noreferrer">
