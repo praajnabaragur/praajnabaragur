@@ -20,9 +20,7 @@
 
 </div>
 
----
-
-### About Me:
+## 🧍‍♂️About Me:
 
 - 🎓 4th year Computer Engineering student at UWaterloo.
 - 💻 Passionate about building things that create real value and impact.
@@ -38,42 +36,25 @@ Graduating June 2026 and actively seeking new-grad software engineering roles
 
 ---
 
-<div id="experience-logos" style="display:flex; gap:10px; flex-wrap:wrap; align-items:center; justify-content:left;">
-  <a href="https://www.shopify.com/" target="_blank" rel="noopener noreferrer" style="display:inline-block; text-decoration:none;">
-      <span style="display:flex; align-items:center; background:#7AB55C; border-radius:6px; padding:2px 7px; font-family:sans-serif; font-size:13px; color:white; font-weight:600; gap:4px;">
-        <img src="icons/shopify_logo.jpeg" alt="Shopify" height="16" style="border-radius:3px; background:white;"/>
-        <span style="font-size:13px;">Shopify</span>
-    </span>
+<div align="center" style="display:flex;gap:12px;justify-content:center;align-items:center;">
+  <a href="https://www.shopify.com/" target="_blank" rel="noopener noreferrer">
+    <img src="icons/shopify_logo.jpeg" alt="Shopify" style="width:64px;height:64px;object-fit:contain;" />
   </a>
-  <a href="https://groq.com/" target="_blank" rel="noopener noreferrer" style="display:inline-block; text-decoration:none;">
-      <span style="display:flex; align-items:center; background:#000000; border-radius:6px; padding:2px 7px; font-family:sans-serif; font-size:13px; color:white; font-weight:600; gap:4px;">
-        <img src="icons/groq_logo.jpeg" alt="Groq" height="16" style="border-radius:3px; background:white;"/>
-        <span style="font-size:13px;">Groq</span>
-    </span>
+  <a href="https://groq.com/" target="_blank" rel="noopener noreferrer">
+    <img src="icons/groq_logo.jpeg" alt="Groq" style="width:64px;height:64px;object-fit:contain;" />
   </a>
-  <a href="https://www.rbc.com/" target="_blank" rel="noopener noreferrer" style="display:inline-block; text-decoration:none;">
-      <span style="display:flex; align-items:center; background:#0033A0; border-radius:6px; padding:2px 7px; font-family:sans-serif; font-size:13px; color:white; font-weight:600; gap:4px;">
-        <img src="icons/rbc_capital_markets_logo.jpeg" alt="RBC" height="16" style="border-radius:3px; background:white;"/>
-        <span style="font-size:13px;">RBC</span>
-    </span>
+  <a href="https://www.rbccm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="icons/rbc_capital_markets_logo.jpeg" alt="RBC" style="width:64px;height:64px;object-fit:contain;" />
   </a>
-  <a href="https://www.dlr.de/" target="_blank" rel="noopener noreferrer" style="display:inline-block; text-decoration:none;">
-      <span style="display:flex; align-items:center; background:#1A1A1A; border-radius:6px; padding:2px 7px; font-family:sans-serif; font-size:13px; color:white; font-weight:600; gap:4px;">
-        <img src="icons/DLR_logo.jpeg" alt="DLR" height="16" style="border-radius:3px; background:white;"/>
-        <span style="font-size:13px;">DLR</span>
-    </span>
+  <a href="https://www.dlr.de/" target="_blank" rel="noopener noreferrer">
+    <img src="icons/DLR_logo.jpeg" alt="DLR" style="width:64px;height:64px;object-fit:contain;" />
   </a>
-  <a href="https://uwaterloo.ca/avril/" target="_blank" rel="noopener noreferrer" style="display:inline-block; text-decoration:none;">
-      <span style="display:flex; align-items:center; background:#FFCD00; border-radius:6px; padding:2px 7px; font-family:sans-serif; font-size:13px; color:black; font-weight:600; gap:4px;">
-        <img src="icons/uwaterloo_logo.jpeg" alt="AVRIL" height="16" style="border-radius:3px; background:white;"/>
-        <span style="font-size:13px;">AVRIL</span>
-    </span>
+  <a href="https://uwaterloo.ca/avril/" target="_blank" rel="noopener noreferrer">
+    <img src="icons/uwaterloo_logo.jpeg" alt="AVRIL / UWaterloo" style="width:64px;height:64px;object-fit:contain;" />
   </a>
 </div>
 
----
-
-<br>
+## 📊 GitHub Stats:
 
 > **Note:** I'm not very active here – most of my work lives in company and
 > university repositories. I'm working on being more active though and tracking
@@ -82,9 +63,9 @@ Graduating June 2026 and actively seeking new-grad software engineering roles
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=praajnabaragur&theme=radical&hide_border=false&border_radius=15&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=praajnabaragur&theme=dark&border_radius=15&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=praajnabaragur&show_icons=true&hide_title=false&hide_rank=false&count_private=true&include_all_commits=true&theme=radical&rank_icon=github&border_radius=15" alt="Praajna's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=praajnabaragur&show_icons=true&hide_title=false&hide_rank=false&count_private=true&include_all_commits=true&theme=dark&rank_icon=github&border_radius=15" alt="Praajna's GitHub Stats" />
 </div>
 
 </div>
