@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ1OHNuanZ2enBnN2E3ZWFweWJqaXVramxtdzhvZXl6eG0zN3lwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kspVl6FzbdblOMKRmM/giphy.gif" width="100" alt="animated header" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ1OHNuanZ2enBnN2E3ZWFweWJqaXVramxtdzhvZXl6eG0zN3lwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kspVl6FzbdblOMKRmM/giphy.gif" width="170" alt="animated header" />
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/praajna/" title="Praajna Baragur on LinkedIn" aria-label="Praajna Baragur on LinkedIn" target="_blank" rel="noopener noreferrer">
@@ -15,4 +15,7 @@
       <img src="https://img.shields.io/badge/YouTube-E33F2B?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
     </a>
   </div>
+
+  <img src="https://komarev.com/ghpvc/?username=praajnabaragur&style=flat-square&color=blue" alt=""/>
+
 </div>
