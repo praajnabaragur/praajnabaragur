@@ -1,3 +1,9 @@
+<style>
+  #badges a {
+    text-decoration: none;
+  }
+</style>
+
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ1OHNuanZ2enBnN2E3ZWFweWJqaXVramxtdzhvZXl6eG0zN3lwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kspVl6FzbdblOMKRmM/giphy.gif" width="170" alt="animated header" />
 
