@@ -43,11 +43,11 @@ Graduating June 2026 and actively seeking new-grad software engineering roles
   <a href="https://groq.com/" target="_blank" rel="noopener noreferrer">
     <img src="icons/groq_logo.jpeg" alt="Groq" style="width:64px;height:64px;object-fit:contain;" />
   </a>
-  <a href="https://www.rbccm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="icons/rbc_capital_markets_logo.jpeg" alt="RBC" style="width:64px;height:64px;object-fit:contain;" />
-  </a>
   <a href="https://www.dlr.de/" target="_blank" rel="noopener noreferrer">
     <img src="icons/DLR_logo.jpeg" alt="DLR" style="width:64px;height:64px;object-fit:contain;" />
+  </a>
+  <a href="https://www.rbccm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="icons/rbc_capital_markets_logo.jpeg" alt="RBC" style="width:64px;height:64px;object-fit:contain;" />
   </a>
   <a href="https://uwaterloo.ca/avril/" target="_blank" rel="noopener noreferrer">
     <img src="icons/uwaterloo_logo.jpeg" alt="AVRIL / UWaterloo" style="width:64px;height:64px;object-fit:contain;" />
