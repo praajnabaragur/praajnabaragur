@@ -65,7 +65,7 @@ Graduating June 2026 and actively seeking new-grad software engineering roles
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=praajnabaragur&theme=dark&mode=weekly" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=praajnabaragur&show_icons=true&hide_title=false&hide_rank=false&count_private=true&include_all_commits=true&theme=dark&rank_icon=github&border_radius=15" alt="Praajna's GitHub Stats" />
+  <img src="https://github-readme-bay-one.vercel.app/api?username=praajnabaragur&show_icons=true&hide_title=false&hide_rank=false&count_private=true&include_all_commits=true&theme=dark&rank_icon=github&border_radius=15" alt="Praajna's GitHub Stats" />
 </div>
 
 </div>
